@@ -1,0 +1,3 @@
+FROM browserless/chrome:latest
+
+ENV PROXY_URL=http://BHVTZ9TQ:EBD8SU4H@104.234.127.10:47568
